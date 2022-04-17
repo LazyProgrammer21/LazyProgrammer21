@@ -1,6 +1,6 @@
 ### Hi there,
 
- I'm SUbash from Nepal, and I am a java developer.
+ I'm Subash from Nepal, and I am a java developer.
  
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LazyProgrammer21)](https://github.com/anuraghazra/github-readme-stats)
